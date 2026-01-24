@@ -1,0 +1,6 @@
+# Ignore database config (credential)
+mysql_staging_config.json
+
+# Python cache
+__pycache__/
+*.pyc
